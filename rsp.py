@@ -1,7 +1,7 @@
 import random
 
-print('가위 바위 보 게임')
-print('가위 바위 보를 하는 게임 입니다.')
+print('Rock Scissors Paper')
+print('This is a game named Rock Scissors Paper with computer.')
 
 computer = random.choice(['가위', '바위', '보'])
 player = input('가위 바위 보 중 하나를 입력하세요: ')
